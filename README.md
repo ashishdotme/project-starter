@@ -8,7 +8,7 @@
 <a href="https://img.shields.io/github/last-commit/ashishdotme/project-starter?style=for-the-badge"><img src="https://img.shields.io/github/last-commit/ashishdotme/project-starter?style=for-the-badge"></a>
 </p>
 
-<p align="center">📦 about project </p>
+<p align="center">📦  starter guide for tech projects </p>
 
 ## Support
 
